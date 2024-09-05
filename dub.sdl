@@ -1,6 +1,6 @@
 name "discord_game_sdk-d"
 description "Static D bindings for the Discord Game SDK"
 authors "Bagomot"
-copyright "Copyright © 2024, Bagomot"
+copyright "Copyright © 2024, LightHouse Software"
 license "MIT"
 targetType "library"
