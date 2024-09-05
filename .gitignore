@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/discord_game_sdk
+discord_game_sdk.so
+discord_game_sdk.dylib
+discord_game_sdk.dll
+discord_game_sdk.a
+discord_game_sdk.lib
+discord_game_sdk-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
